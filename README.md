@@ -1,5 +1,5 @@
 # GappsFrameworks
-Normes Françaises pour l'application Gapps
+Normes Françaises pour l'application Gapps.
 
 Référentiels français et en particulier hospitaliers pour l'appli Gapps par bmarsh9
 https://github.com/bmarsh9/gapps
